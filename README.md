@@ -21,4 +21,4 @@ While working with FlawFinder, I was hit with the following error:
 > *UnicodeDecodeError: 'utf-8' codec can't decode byte ... in position ...: invalid continuation byte* 
 >
 
-To perform mass source code encoding conversion to UTF-8 for a client's project, the script was just a quick spin up a reference to an answer on StackOverflow written by [Timwi](https://stackoverflow.com/users/33225/timwi) and [Ivan Perevezentsev](https://stackoverflow.com/users/4027465/ivan-perevezentsev). 
+To perform mass source code encoding conversion to UTF-8 for a client's project, the script was just a quick spin up with reference to an answer on StackOverflow written by [Timwi](https://stackoverflow.com/users/33225/timwi) and [Ivan Perevezentsev](https://stackoverflow.com/users/4027465/ivan-perevezentsev). 
